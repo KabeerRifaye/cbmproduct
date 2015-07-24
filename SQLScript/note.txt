@@ -1,0 +1,9 @@
+LAST PUR.PRICE : last pur price of user
+Price  : PUR.PRICE
+CBM from model table B25
+
+last.sel cbm : cbm ex from the last purc
+
+LAST.SEL PR : sel_price from the last purc
+
+LAST PUR NOO : pur no from the cost form drop down.
